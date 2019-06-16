@@ -21,3 +21,6 @@ Basic Questions in Computers.
 	
 4. Thrashing
 	[Techniques to handle Thrashing](https://www.geeksforgeeks.org/operating-system-techniques-handle-thrashing/)
+	
+5. Deadlock
+	[Deadlock and Prevention](https://www.geeksforgeeks.org/operating-system-process-management-deadlock-introduction/)
