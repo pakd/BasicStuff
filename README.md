@@ -24,3 +24,6 @@ Basic Questions in Computers.
 	
 5. Deadlock
 	[Deadlock and Prevention](https://www.geeksforgeeks.org/operating-system-process-management-deadlock-introduction/)
+	
+6. Dangling and Null Pointer
+	[Dangling, Void , Null and Wild Pointers](https://www.youtube.com/watch?v=uvw5bZZT3pM)
